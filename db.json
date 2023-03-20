@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Huy",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 2
+    },
+    {
+      "name": "Huy",
+      "username": "hoanghai123",
+      "email": "hoanghai@gmail.com",
+      "phone": "9956976967",
+      "id": 3,
+      "name ": " huy"
+    },
+    {
+      "name": "Huy dep trai 1",
+      "username": "trongkien123",
+      "email": "tronghuy#l.com",
+      "phone": "9956976967",
+      "id": 4
+    },
+    {
+      "name": "Huy add 55555",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 5
+    },
+    {
+      "name": "Huy add 3242423",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 6
+    }
+  ]
+}
